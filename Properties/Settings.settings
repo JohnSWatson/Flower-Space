@@ -1,0 +1,90 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Flower_Space.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CameraViewNotConfigured" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">224, 224, 224</Value>
+    </Setting>
+    <Setting Name="CameraViewShowingCameraImage" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">255, 255, 192</Value>
+    </Setting>
+    <Setting Name="CameraViewStreamingCameraImage" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Yellow</Value>
+    </Setting>
+    <Setting Name="CameraViewShowingSavedImage" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Fuchsia</Value>
+    </Setting>
+    <Setting Name="DataBaseName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">FlowerSpace.db</Value>
+    </Setting>
+    <Setting Name="DataFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Flower Space</Value>
+    </Setting>
+    <Setting Name="NotificationState" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="DBMajorVersion" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="DBMinorVersion" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="ApplicationVersion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">4.5</Value>
+    </Setting>
+    <Setting Name="ExportFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LargeThumbnailPostscript" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">-LT</Value>
+    </Setting>
+    <Setting Name="SmallThumbnailPostscript" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">-ST</Value>
+    </Setting>
+    <Setting Name="LargeColourThumbnailPostscript" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">-LCT</Value>
+    </Setting>
+    <Setting Name="SmallColourThumbnailPostscript" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">-SCT</Value>
+    </Setting>
+    <Setting Name="InportFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">""</Value>
+    </Setting>
+    <Setting Name="CameraViewNoPhotoAvailable" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">LightGray</Value>
+    </Setting>
+    <Setting Name="MetaDataFolder" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Flower Space Meta Data</Value>
+    </Setting>
+    <Setting Name="RecentMetaDataFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CameraAngleLastMetaDataFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ColourLastMetaDataFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CommonNameLastMetaDataFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CultivarLastMetaDataFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="GenusLastMetaDataFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ShapeLastMetaDataFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SpeciesLastMetaDataFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="BloomViewLastMetaDataFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LastAppDataExport" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
